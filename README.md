@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 Who I Am
 
-```typescript
+
 const krishjainDotcom = {
   title: "CS Student",
   stack: {
@@ -36,9 +36,7 @@ const krishjainDotcom = {
 } as const;
 
 console.log(krishjainDotcom.status);
-```
 
----
 
 ### 🚀 Featured Projects
 

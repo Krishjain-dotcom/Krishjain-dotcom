@@ -19,23 +19,7 @@
 
 ---
 
-### 🧑‍💻 Who I Am
 
-
-const krishjainDotcom = {
-  title: "CS Student",
-  stack: {
-    languages: ["Python", "Java"],
-    frontend: ["HTML", "CSS"],
-    databases: ["Oracle"],
-  },
-  launchedProjects: [],      // 🚧 first public project shipping soon
-  certifications: [],        // 📚 building up my portfolio
-  status: "Learning & building, one script at a time",
-  openTo: ["Internships", "Entry-level Dev Roles", "Collaborations"],
-} as const;
-
-console.log(krishjainDotcom.status);
 
 
 ### 🚀 Featured Projects
